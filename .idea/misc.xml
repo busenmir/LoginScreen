@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/editstyle.xml" value="0.2025" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_button_giris.xml" value="0.2025" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_login.xml" value="0.1785" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_user.xml" value="0.1785" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_vector_1.xml" value="0.1785" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_vector_2.xml" value="0.222" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_vector_3.xml" value="0.1785" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_vector_4.xml" value="0.1785" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/ic_vector_5.xml" value="0.222" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/rectangle_1.xml" value="0.1785" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/vector1.xml" value="0.102" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/vector2.xml" value="0.184" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/vector3.xml" value="0.222" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/vector4.xml" value="0.222" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/drawable/vector5.xml" value="0.222" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/layout/activity_ana.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/layout/activity_kayit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginScreen/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
